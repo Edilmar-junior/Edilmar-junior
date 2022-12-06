@@ -25,5 +25,10 @@
  ![Snake animation](https://github.com/JuniorEdilmar/JuniorEdilmar/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+: Praticar a cultura DevOps e utilizar ferramentas que possibilite a
+automatização, o monitoramento e gerenciamento de sistemas e infraestrutura
+como código, agregando valor ao negócio e proporcionando serviços e suporte de
+maior qualidade aos cliente
 
 

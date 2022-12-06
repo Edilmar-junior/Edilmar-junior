@@ -14,7 +14,6 @@
 - Python Devops - JLCP (EAD - em andamento); <br>
 - Monitoramento com Zabbix – JLCP (EAD) <br>
 - Puppet “gerenciamento e configuração” – Aécio Pires (Online); <br>
-- Sistema de Energia Solar Fotovoltaica – Senai – Areias (Presencial); <br>
 - Zabbix de A a Zabbix – UNI- RN (Presencial); <br>
 - Zabbix Essentials 2.4 - Unirede ( EAD) <br>
 - Curso Oficial Mikrotik – Inove Training (Presencial); <br>

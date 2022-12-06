@@ -1,4 +1,4 @@
-### Olá1 Eu sou Edilmar Junior 👋
+### Olá! Eu sou Edilmar Junior 👋
 
 - 🔭 Hoje trabalho com Zabbix
 - 🌱 Estudando Docker / Kubernetes

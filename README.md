@@ -4,7 +4,7 @@
 - 🌱 Estudando Docker / Kubernetes
 - 😄 Pronouns: Ele/dele
 
--  MINI CURRICULO: 
+-  MINI CURRICULO:<br> 
  CERTIFICAÇÕES
 -
 -

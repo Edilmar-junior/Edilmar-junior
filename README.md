@@ -6,7 +6,7 @@
 <br> 
   MINI CURRICULO:<br>
 
--<br>
+<br>
  Certificações:<br>
 -<br>
 -<br>

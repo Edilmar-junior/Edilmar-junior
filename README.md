@@ -1,8 +1,8 @@
 ### Olá! Eu sou Edilmar Junior 👋
 
-- 🔭 Hoje trabalho com Zabbix
-- 🌱 Estudando Docker / Kubernetes
-- 😄 Pronouns: Ele/dele
+-  Hoje trabalho com Zabbix
+-  Estudando Docker / Kubernetes
+
 <br> 
   MINI CURRICULO:<br>
 -<br>

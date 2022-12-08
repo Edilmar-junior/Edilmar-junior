@@ -3,20 +3,18 @@
 - 🔭 Hoje trabalho com Zabbix
 - 🌱 Estudando Docker / Kubernetes
 - 😄 Pronouns: Ele/dele
-<br>
--  MINI CURRICULO:<br> 
-
- CERTIFICAÇÕES
--
--
--
 <br> 
- FORMAÇÃO ACADÊMICA <br>
+  MINI CURRICULO:<br>
+-<br>
+-<br>
+-<br>
+<br> 
+ Formações Acadêmicas:<br>
 - Pós graduação - Redes e Telecom; <br> 
 - Graduação - Analista de Redes; <br>
 - Curso Técnico - Eletrônica.<br>
  
- CURSOS EXTRAS CURRICULARES <br>
+ Cursos Extras Curriculares:<br>
 - Python Devops - JLCP (EAD - em andamento); <br>
 - Monitoramento com Zabbix – JLCP (EAD) <br>
 - Puppet “gerenciamento e configuração” – Aécio Pires (Online); <br>

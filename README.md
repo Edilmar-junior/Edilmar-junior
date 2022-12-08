@@ -10,11 +10,13 @@
 -<br>
 <br> 
  Formações Acadêmicas:<br>
+<br>
 - Pós graduação - Redes e Telecom;<br> 
 - Graduação - Analista de Redes;<br>
 - Curso Técnico - Eletrônica.<br>
- 
+<br> 
  Cursos Extras Curriculares:<br>
+<br>
 - Python Devops - JLCP (EAD - em andamento);<br>
 - Monitoramento com Zabbix – JLCP (EAD);<br>
 - Puppet “gerenciamento e configuração” – Aécio Pires (Online);<br>
@@ -23,7 +25,8 @@
 - Curso Oficial Mikrotik – Inove Training (Presencial);<br>
 - Curso CCNA – Marcos A. A.Gondim (Presencial);<br>
 - Administração de Sistema Linux – Fuctura Tecnologia (Presencial).<br>
-
+<br>
+<br>
 
 <div align="center">
 <a href="https://github.com/JuniorEdilmar">
@@ -35,6 +38,9 @@
 <div  align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 
 ##########

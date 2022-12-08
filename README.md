@@ -10,19 +10,19 @@
 -<br>
 <br> 
  Formações Acadêmicas:<br>
-- Pós graduação - Redes e Telecom; <br> 
-- Graduação - Analista de Redes; <br>
+- Pós graduação - Redes e Telecom;<br> 
+- Graduação - Analista de Redes;<br>
 - Curso Técnico - Eletrônica.<br>
  
  Cursos Extras Curriculares:<br>
-- Python Devops - JLCP (EAD - em andamento); <br>
-- Monitoramento com Zabbix – JLCP (EAD) <br>
-- Puppet “gerenciamento e configuração” – Aécio Pires (Online); <br>
-- Zabbix de A a Zabbix – UNI- RN (Presencial); <br>
-- Zabbix Essentials 2.4 - Unirede (EAD) <br>
-- Curso Oficial Mikrotik – Inove Training (Presencial); <br>
-- Curso CCNA – Marcos A. A.Gondim (Presencial); <br>
-- Administração de Sistema Linux – Fuctura Tecnologia (Presencial) <br>
+- Python Devops - JLCP (EAD - em andamento);<br>
+- Monitoramento com Zabbix – JLCP (EAD);<br>
+- Puppet “gerenciamento e configuração” – Aécio Pires (Online);<br>
+- Zabbix de A a Zabbix – UNI- RN (Presencial);<br>
+- Zabbix Essentials 2.4 - Unirede (EAD);<br>
+- Curso Oficial Mikrotik – Inove Training (Presencial);<br>
+- Curso CCNA – Marcos A. A.Gondim (Presencial);<br>
+- Administração de Sistema Linux – Fuctura Tecnologia (Presencial).<br>
 
 
 <div align="center">

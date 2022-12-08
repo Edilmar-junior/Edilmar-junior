@@ -3,7 +3,12 @@
 - 🔭 Hoje trabalho com Zabbix
 - 🌱 Estudando Docker / Kubernetes
 - 😄 Pronouns: Ele/dele
--  Mini curriculo : 
+
+-  MINI CURRICULO: 
+ CERTIFICAÇÕES
+-
+-
+-
  
  FORMAÇÃO ACADÊMICA <br>
 - Pós graduação - Redes e Telecom; <br> 

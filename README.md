@@ -8,8 +8,8 @@
 
 <br>
  Certificações:<br>
--<br>
--<br>
+-(Loading) <br>
+-(Loading)<br>
 <br> 
  Formações Acadêmicas:<br>
 <br>

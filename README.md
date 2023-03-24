@@ -1,7 +1,7 @@
 ### Olá! Eu sou Edilmar Junior 
 
 -  Hoje trabalho com Zabbix
--  Estudando Docker / Kubernetes
+-  Estudando Kubernetes
 
 <br> 
   MINI CURRICULO:<br>
@@ -19,6 +19,7 @@
 <br> 
  Cursos Extras Curriculares:<br>
 <br>
+- Docker “Gerenciamento de ambientes com Docker” – Aécio Pires (Online);<br>
 - Python Devops - JLCP (EAD - em andamento);<br>
 - Monitoramento com Zabbix – JLCP (EAD);<br>
 - Puppet “gerenciamento e configuração” – Aécio Pires (Online);<br>
